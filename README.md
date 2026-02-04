@@ -1,30 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Valerie Gonzalez - Resume</title>
-    <style>
-        body {
-            background-color: #FFFFFF; /* White background */
-            color: #000000;            /* Black text */
-            font-family: Arial, sans-serif;
-            margin: 40 px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #000000;
-        }
-        .section {
-            margin-top: 30 px;
-        }
-        .contact a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        ul {
-            margin-top: 5 px;
-        }
-    </style>
 </head>
 <body>
  <h1 style= "text-align:center";>Valerie Gonzalez</h1>
