@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Valerie Gonzalez - Resume</title>
 </head>
 <body>
  <h1 style= "text-align:center";>Valerie Gonzalez</h1>
